@@ -1,4 +1,4 @@
-# Spring Boot Maven
+# CRM System
 
 PROJECT START STEPS:
 
@@ -15,3 +15,12 @@ PROJECT START STEPS:
             - java -jar ./target/spring-boot-in-docker.jar
 
     2. Go to http://localhost:8080/ in your browser to view it.
+    
+PROJECT DESCRIPTION:
+    
+    This is a CRM system that helps manage inbound customer leads.  Let us say you are supposed to build a system that stores all the lead information and allows you to edit and update the conversation of the agents with leads. Features inclued in this project are:
+    1. Fetch a lead
+    2. Generate a lead
+    3. Update a lead
+    4. Remove a lead
+    5. Mark a lead
